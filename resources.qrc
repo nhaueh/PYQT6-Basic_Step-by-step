@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file>button-interface-multimedia-svgrepo-com.svg</file>
+    <file>play-button.png</file>
+  </qresource>
+</RCC>
